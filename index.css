@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+justify-items: center;
+}
+.section1 h1{
+    color: rgb(12, 4, 43);
+    font-size: 100px;
+}
+
+.bildflygresa{
+    width: 800px;
+    height: 700px;
+}
